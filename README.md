@@ -144,10 +144,4 @@ This appears to be a course project. For modifications:
 4. Test across different browsers
 5. Submit a pull request
 
-## 📄 License
-
-This project is for educational purposes. Please check with the original creators for usage rights.
-
----
-
 **Built as part of Course Work 1st Year**
