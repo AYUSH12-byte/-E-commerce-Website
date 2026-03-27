@@ -6,47 +6,6 @@ A modern, responsive e-commerce website for luxury watches built with HTML, CSS,
 
 Acrux is a premium watch e-commerce platform featuring a clean, elegant design focused on showcasing luxury timepieces. The website includes product displays, team portfolios, blog content about watchmaking technology, and research sections.
 
-## 🏗️ Project Structure
-
-```
-Watch E-commerce/
-├── index.html          # Homepage with hero banner
-├── index.css           # Homepage styling
-├── about.html          # About page with team section
-├── about.css           # About page styling
-├── product.html        # Product catalog page
-├── product.css         # Product page styling
-├── product.js          # Product page functionality
-├── blog.html           # Main blog page
-├── blog.css            # Blog styling
-├── blog1.html          # Individual blog posts
-├── blog2.html
-├── blog3.html
-├── blog4.html
-├── blog5.html
-├── research.html       # Research page
-├── research.css        # Research page styling
-├── research.js         # Research page functionality
-├── script.js           # Global JavaScript functionality
-├── images/             # General images
-├── product image/      # Product and banner images
-└── portfolio/          # Team member portfolios
-    ├── aakash.html     # Individual team member pages
-    ├── aakash.css
-    ├── aakash.js
-    ├── anish.html
-    ├── anish.css
-    ├── anish.js
-    ├── ayush.html
-    ├── ayush.css
-    ├── ayush.js
-    ├── bhumika.html
-    ├── bhumika.css
-    ├── bhumika.js
-    ├── bishwash.html
-    ├── bishwash.css
-    └── bishwash.js
-```
 
 ## 🎨 Features
 
